@@ -1,0 +1,34 @@
+# Unreal Engine — generated / local
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio / Rider / Xcode
+.vscode/
+.vs/
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Personal sandbox — each developer keeps experiments here locally
+Content/Developers/
+
+# Crash / log dumps
+*.log
+*.dmp
+
+# Per-user editor settings (machine-specific)
+Saved/
