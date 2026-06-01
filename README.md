@@ -89,6 +89,7 @@ git push
 | [docs/SPRINT_01.md](docs/SPRINT_01.md) | Чеклист первого спринта |
 | [docs/COLLABORATION.md](docs/COLLABORATION.md) | Workflow, зоны, конфликты |
 | [docs/NAMING.md](docs/NAMING.md) | Префиксы и именование ассетов |
+| [docs/UI_DESIGN.md](docs/UI_DESIGN.md) | Dark fantasy UI: цвета, кнопки, типографика |
 
 ## Ветки
 
